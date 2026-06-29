@@ -1,1 +1,13 @@
-# placement-journey
+# Placement Journey
+
+Started: 29 June 2026
+
+Current Goal
+
+Become placement ready by 2027.
+
+Day 1
+
+Created GitHub.
+
+Attempted Contains Duplicate.
