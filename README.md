@@ -11,3 +11,11 @@ Day 1
 Created GitHub.
 
 Attempted Contains Duplicate.
+
+Day 2
+
+Revisited Contains Duplicate
+
+Started Valid Anagram
+
+Python Sets Practice
